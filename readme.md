@@ -22,14 +22,12 @@ Use Gemini to refine and improve search queries based on context.
 Installation
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 Install required dependencies:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Set up environment variables:
 
